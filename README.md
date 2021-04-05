@@ -1,8 +1,7 @@
-# Mini_Project
 
-# SPARK FOUNDATION INTERNSHIP 
+## SPARK FOUNDATION INTERNSHIP 
 
-   ## BASIC BANKING SYSTEM
+   ### BASIC BANKING SYSTEM
 
                                                            
  * Front-end : HTML, CSS, Bootstrap & Javascript 
