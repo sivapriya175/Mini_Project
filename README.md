@@ -1,6 +1,4 @@
 
-## SPARK FOUNDATION INTERNSHIP 
-
    ### BASIC BANKING SYSTEM
 
                                                            
